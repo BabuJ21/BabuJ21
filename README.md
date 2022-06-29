@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BabuJ21
+- 👋 Hi, I’m Babu Jayaraman
 _________________________________________________________________________
-Machine Learning Engineer || Deep Learning || Data scientist
+Machine Learning Engineer || Deep Learning || Data scientist 
 
 
 - 🌱 I’m currently learning ... Machine Learning, Deep learning and computer vision
@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Connect with me:
+https://www.linkedin.com/in/babu_jayaraman/ 
 
 Languages and Tools:
 arduino aws azure bash bootstrap c cassandra cplusplus css3 d3js django docker elasticsearch express flask gcp git heroku html5 javascript linux mongodb mysql nodejs opencv postgresql postman python react sass scikit_learn sqlite
